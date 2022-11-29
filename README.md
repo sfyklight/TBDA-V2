@@ -1,6 +1,6 @@
 # Tor Based DDoS Attack V2
 
-OS: Kali Linux,Arch Linux,Ubuntu,Debain
+OS: Kali Linux,Arch Linux,Ubuntu,Debian
 
 
 What's
